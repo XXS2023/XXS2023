@@ -1,16 +1,17 @@
-## Hi there 👋
+##   🌍 Professional Linguist | 📚 English & Chinese Language Teacher | 📊 Aspiring Data Analyst | 🐍 Python | 📈 SQL | 🤖 Machine Learning Enthusiast
+
+  Currently exploring text data analysis and contributing to projects aimed at building language models. Passionate about leveraging linguistic skills in data analytics.�
+  ### Skills
+  - **Languages**: Python, SQL
+  - **Tools & Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+  - **Other Skills**: Text data analysis, Natural Language Processing (NLP)
+  
 
 <!--
-**XXS2023/XXS2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Darya, a professional linguist with a passion for data analytics. Currently teaching English and Chinese languages while diving into the world of Python, SQL, and machine learning. 
 
-Here are some ideas to get you started:
+🔍 My projects primarily focus on text data analysis but extend beyond that. I aim to contribute to building large language models (LLMs) and leverage my linguistic expertise in data-driven insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📫 Feel free to connect with me!
+
 -->
